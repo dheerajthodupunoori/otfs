@@ -1,0 +1,482 @@
+.jtax {
+   background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+	border-radius: 12px;
+	float:left;
+}
+.jtaxicon
+{
+	text-decoration:none;
+}
+.jtax:hover {
+    background-color: rgb(255,255,255); /* Green */
+    color: black;
+}
+.login {
+   background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+	float:right;
+	
+}
+.login:hover {
+    background-color: #4CAF50; /* Green */
+    color: black;
+}
+.login:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.signup {
+   background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+	float:right;
+	margin-right: 10px;
+}
+.signup:hover {
+    background-color: #4CAF50; /* Green */
+    color: black;
+	text-decoration:none;
+}
+.signup:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.one
+{
+text-align: center;
+}
+.form16
+{
+	background-color: #4CAF50;;
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+}
+.form16:hover {
+    background-color: #4CAF50; /* Green */
+   // color: black;
+}
+.form16:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.uploadform16
+{
+	background-color: #4CAF50;;
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+}
+.uploadform16:hover {
+    background-color: #4CAF50; /* Green */
+   // color: black;
+}
+.uploadform16:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.continuehere
+{
+	text-decoration:none;
+}
+
+.income {
+   background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+	float:left;
+	margin-left:100px;
+	
+}
+.income:hover {
+    background-color: #4CAF50; /* Green */
+    color: black;
+}
+.income:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.deduction {
+   background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+	float:left;
+	margin-left:100px;
+	
+}
+.deduction:hover {
+    background-color: #4CAF50; /* Green */
+    color: black;
+}
+.deduction:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.taxes {
+   background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+	float:left;
+	margin-left:100px;
+	
+}
+.taxes:hover {
+    background-color: #4CAF50; /* Green */
+    color: black;
+}
+.taxes:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.taxfiling {
+   background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+	float:left;
+	margin-left:100px;
+	
+}
+.taxfiling:hover {
+    background-color: #4CAF50; /* Green */
+    color: black;
+}
+.taxfiling:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.salary {
+   background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+	float:left;
+	margin-left:20px;
+	
+}
+.salary:hover {
+    background-color: #4CAF50; /* Green */
+    color: black;
+}
+.salary:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.otherincome {
+   background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+	float:left;
+	margin-left:80px;
+	
+}
+.otherincome:hover {
+    background-color: #4CAF50; /* Green */
+    color: black;
+}
+.otherincome:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.houseproperty{
+   background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+	float:left;
+	margin-left:80px;
+	
+}
+.houseproperty:hover {
+    background-color: #4CAF50; /* Green */
+    color: black;
+}
+.houseproperty:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.capitalgain{
+   background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+	float:left;
+	margin-left:80px;
+	
+}
+.capitalgain:hover {
+    background-color: #4CAF50; /* Green */
+    color: black;
+}
+.capitalgain:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.bussiness{
+   background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+	float:left;
+	margin-left:80px;
+	
+}
+.bussiness:hover {
+    background-color: #4CAF50; /* Green */
+    color: black;
+}
+.bussiness:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.h2one
+{
+	margin-left:20px;
+}
+.block{
+	color:#B2BEB5;
+	font-size:15px;
+}
+.salaryform
+{
+	width:500px;
+}
+.tdsform
+{
+width:500px;
+}
+.general
+{
+	text-align:center;
+	font-size:20px;
+}
+.salarysave{
+   background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+	float:left;
+	margin-left:20px;
+	
+}
+.salarysave:hover {
+    background-color: #4CAF50; /* Green */
+    color: black;
+}
+.salarysave:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.salarynext{
+   background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+	float:left;
+	margin-left:20px;
+	
+}
+.salarynext:hover {
+    background-color: #4CAF50; /* Green */
+    color: black;
+}
+.salarynext:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.interestincomeform
+{
+	width:600px;
+	margin-left:100px;
+}
+.otherincomeform
+{
+	width:600px;
+	margin-left:100px;
+}
+.exemptincomeform
+{
+	width:600px;
+	margin-left:100px;
+}
+.agricultureincomeform
+{
+	width:600px;
+	margin-left:100px;
+}
+.otherincomesave{
+   background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+	float:left;
+	margin-left:100px;
+	
+}
+.otherincomesave:hover {
+    background-color: #4CAF50; /* Green */
+    color: black;
+}
+.otherincomesave:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.h1one
+{
+	margin-left:100px;
+}
+.paragraph
+{
+	margin-left:100px;
+}
+.selfoccupiedform
+{
+	width:700px;
+	margin-left:100px;
+}
+.jtax {
+   background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+	border-radius: 12px;
+	float:left;
+}
+.jtaxicon
+{
+	text-decoration:none;
+}
+.jtax:hover {
+    background-color: rgb(255,255,255); /* Green */
+    color: black;
+}

@@ -1,0 +1,98 @@
+.jtax {
+   background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+	border-radius: 12px;
+	float:left;
+}
+.jtaxicon
+{
+	text-decoration:none;
+}
+.jtax:hover {
+    background-color: rgb(255,255,255); /* Green */
+    color: black;
+}
+.personalsave
+{
+ background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+	float:left;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+.personalsave:hover {
+    background-color: #4CAF50; /* Green */
+    color: black;
+}
+.personalsave:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.next
+{
+ background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+	float:left;
+	margin-top: 10px;
+}
+.next:hover {
+    background-color: #4CAF50; /* Green */
+    color: black;
+}
+.next:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.addresssave
+{
+	background-color: rgb(255,255,255);
+    border: none;
+    color: blue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+	border-radius: 12px;
+	border: 2px solid #e7e7e7;
+	float:left;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+.addresssave:hover {
+    background-color: #4CAF50; /* Green */
+    color: black;
+}
+.addresssave:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.divone
+{
+	font-size:15px;
+}
